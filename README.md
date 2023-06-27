@@ -1,7 +1,14 @@
 <div>
   <h2>Original resource</h2>
   <p>Original resource for template - <a href="https://github.com/LambdaTest/LT-appium-java">Lambdatest - gitgub</a></p>
+  <p>Also i have provided the apk from the app we were testing and looking for solutions</p>
 </div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 # Java With Appium ![pw](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 <div>
   <h2>Original resource</h2>
