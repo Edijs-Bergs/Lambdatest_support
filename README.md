@@ -1,5 +1,8 @@
 # Java With Appium ![pw](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
+<div>
+  <h2>Original resource</h2>
+  <p>Original resource for template - <a href="https://github.com/LambdaTest/LT-appium-java">Lambdatest - gitgub</a></p>
+</div>
 <p align="center">
 <img height="500" src="https://user-images.githubusercontent.com/95698164/171858980-70cfccd7-978d-41ed-a563-076e7cd8c85d.png">
 </p>
